@@ -1,3 +1,3 @@
 from eightball import *
 mjg = Eightball()
-print(mjg)
+print(mjg.roll())
